@@ -1,0 +1,15 @@
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.csproj.AssemblyReference.cache
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.AssemblyInfoInputs.cache
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.AssemblyInfo.cs
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.csproj.CoreCompileInputs.cache
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\bin\Debug\net6.0\Seminar3.exe
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\bin\Debug\net6.0\Seminar3.deps.json
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\bin\Debug\net6.0\Seminar3.runtimeconfig.json
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\bin\Debug\net6.0\Seminar3.dll
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\bin\Debug\net6.0\Seminar3.pdb
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.dll
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\refint\Seminar3.dll
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.pdb
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\Seminar3.genruntimeconfig.cache
+D:\Acer_Document\IT\Знакомство_с_языками_программирования_семинары\Seminar3\obj\Debug\net6.0\ref\Seminar3.dll
